@@ -6,3 +6,6 @@ Comando para ver los commit hechos:
 
 Comando para entrar al edit por si te equivocas en un commit:
     - git commit --amend
+
+  Comando para actualizar tus archivos
+   - git pull
