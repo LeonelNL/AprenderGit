@@ -1,4 +1,6 @@
- Para realizar un add . y commit:
+Todos los comandos se escriben sin [] a menos que se especifique en el comando.
+
+Para realizar un add . y commit:
     - git commit -am "[Texto a introducir]"
 
 Comando para ver los commit hechos:
@@ -9,3 +11,9 @@ Comando para entrar al edit por si te equivocas en un commit:
 
   Comando para actualizar tus archivos
    - git pull
+
+Comando para crear tags
+    - git tag [Nombre del tag que quieras crear (Sin espacios)] -m "[Texto a introducir]" 
+
+Comando para subir los tags
+    - git push --tags
