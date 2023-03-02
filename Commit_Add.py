@@ -29,3 +29,6 @@ Comando para cambiar entre branches:
 
 Comando para dar merge: (Colocar en tu master, main o rama que quieras)
     git merge [Nombre del branch que quieres dar merge]
+
+Comando para eliminar un branch:
+    git branch -d [Nombre del branch a eliminar]
