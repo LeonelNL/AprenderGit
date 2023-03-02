@@ -4,5 +4,5 @@
 Comando para ver los commit hechos:
     - git log --oneline
 
-
-
+Comando para entrar al edit por si te equivocas en un commit:
+    - git commit --amend
