@@ -26,3 +26,6 @@ Comando para verificar los branchs creados
 
 Comando para cambiar entre branches:
     git checkout [Nombre del branch]
+
+Comando para dar merge: (Colocar en tu master, main o rama que quieras)
+    git merge [Nombre del branch que quieres dar merge]
