@@ -17,3 +17,12 @@ Comando para crear tags
 
 Comando para subir los tags
     - git push --tags
+
+Comando para crear branch 
+    git branch [Nombre de la rama a crear]
+
+Comando para verificar los branchs creados
+    git branch
+
+Comando para cambiar entre branches:
+    git checkout [Nombre del branch]
